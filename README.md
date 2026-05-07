@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Awesome-Embodied-Multi-Agent-Collaboration</h1>
 <p align="center">
     <b> Curated collection of papers and resources on Multi-Agent Collaboration.</b>
@@ -47,10 +49,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
    *Li Kang, Yutao Fan, Rui Li, Heng Zhou, Yiran Qin, Zhemeng Zhang, Songtao Huang, Xiufeng Song, Zaibin Zhang, Bruno N.Y. Chen, Zhenfei Yin, Dongzhan Zhou, Wangmeng Zuo, Lei Bai.* [[abs](https://arxiv.org/abs/2604.05484)], Arxiv 2026.04
 
 4. **Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning.**  
-   *Heng Zhou, Li Kang, Yiran Qin, Xiufeng Song, Ao Yu, Zilu Zhang, Haoming Song, Kaixin Xu, Yuchen Fan, Dongzhan Zhou, Xiaohong Liu, Ruimao Zhang, Philip Torr, Lei Bai, Zhenfei Yin.* [[abs](https://arxiv.org/abs/2603.14811)], ICLR 2026 (Under Review)
+   *Heng Zhou, Li Kang, Yiran Qin, Xiufeng Song, Ao Yu, Zilu Zhang, Haoming Song, Kaixin Xu, Yuchen Fan, Dongzhan Zhou, Xiaohong Liu, Ruimao Zhang, Philip Torr, Lei Bai, Zhenfei Yin.* [[abs](https://arxiv.org/abs/2603.14811)], Arxiv 2026.03
 
 5. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
-   *Enyi Wang, Wen Fan, Dandan Zhang.* [[abs](https://arxiv.org/abs/2602.21622)], Arxiv 2026.02
+   *Enyi Wang, Wen Fan, Dandan Zhang.* [[abs](https://arxiv.org/abs/2602.21622)], ICRA 2026
 
 6. **GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies.**  
    *Ziye Wang, Li Kang, Yiran Qin, Jiahua Ma, Zhanglin Peng, Lei Bai, Ruimao Zhang.* [[abs](https://arxiv.org/abs/2511.00998)], NeurIPS 2025
