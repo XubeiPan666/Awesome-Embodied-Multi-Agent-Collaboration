@@ -1,7 +1,3 @@
-# Awesome-Embodied-Multi-Agent-Collaboration
-
-
-
 <h1 align="center">Awesome-Embodied-Multi-Agent-Collaboration</h1>
 <p align="center">
     <b> Curated collection of papers and resources on Multi-Agent Collaboration.</b>
