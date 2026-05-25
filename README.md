@@ -54,31 +54,37 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 5. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
    *Enyi Wang, Wen Fan, Dandan Zhang.* [[abs](https://arxiv.org/abs/2602.21622)], ICRA 2026
 
-6. **GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies.**  
+6. **From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents.**  
+   *SeungWon Seo, SooBin Lim, Seongrae Noh, Haneul Kim, HyeongYeop Kang.* [[abs](https://arxiv.org/abs/2602.04326)], ICLR 2026
+
+7. **GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies.**  
    *Ziye Wang, Li Kang, Yiran Qin, Jiahua Ma, Zhanglin Peng, Lei Bai, Ruimao Zhang.* [[abs](https://arxiv.org/abs/2511.00998)], NeurIPS 2025
 
-7. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
+8. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
    *Huajie Tan, Cheng Chi, Xiansheng Chen, Yuheng Ji, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2510.26536)], Arxiv 2025.10
 
-8. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
+9. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
    *Shaobin Ling, Yun Wang, Chenyou Fan, Tin Lun Lam, Junjie Hu.* [[abs](https://arxiv.org/abs/2509.24230)], Arxiv 2025.09
 
-9. **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning.**  
-   *Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, Zhenfei Yin.* [[abs](https://arxiv.org/abs/2506.09049)], NeurIPS 2025
+10. **Learning to Deliberate: Meta-policy Collaboration for Agentic LLMs with Multi-agent Reinforcement Learning.**  
+    *Wei Yang, Jesse Thomason.* [[abs](https://arxiv.org/abs/2509.03817)], AAAI 2026
 
-10. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
+11. **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning.**  
+    *Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, Zhenfei Yin.* [[abs](https://arxiv.org/abs/2506.09049)], NeurIPS 2025
+
+12. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
     *Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html)], CVPR 2025
 
-11. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
+13. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
     *Huajie Tan, Xiaoshuai Hao, Cheng Chi, Minglan Lin, Yaoxu Lyu, Mingyu Cao, Dong Liang, Zhuo Chen, Mengsi Lyu, Cheng Peng, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2505.03673)], Arxiv 2025.05
 
-12. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
+14. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
     *Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, Lei Bai.* [[abs](https://arxiv.org/abs/2503.16408)], ICCV 2025
 
-13. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+15. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
     *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)], IROS 2024
 
-14. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
+16. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)] [[project](https://umass-embodied-agi.github.io/CoELA/)] [[code](https://github.com/UMass-Embodied-AGI/CoELA)], ICLR 2024
 
     
