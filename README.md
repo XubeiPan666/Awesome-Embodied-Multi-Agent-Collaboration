@@ -69,22 +69,25 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 10. **Learning to Deliberate: Meta-policy Collaboration for Agentic LLMs with Multi-agent Reinforcement Learning.**  
     *Wei Yang, Jesse Thomason.* [[abs](https://arxiv.org/abs/2509.03817)], AAAI 2026
 
-11. **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning.**  
+11. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
+    *Yunsheng Tian, Joshua Jacob, Yijiang Huang, Jialiang Zhao, Edward Gu, Pingchuan Ma, Annan Zhang, Farhad Javid, Branden Romero, Sachin Chitta, Shinjiro Sueda, Hui Li, Wojciech Matusik.* [[abs](https://arxiv.org/abs/2506.05168)] [[project](https://fabrica.csail.mit.edu)] [[code](https://github.com/yunshengtian/Fabrica)], CoRL 2025 (Best Paper Award)
+
+12. **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning.**  
     *Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, Zhenfei Yin.* [[abs](https://arxiv.org/abs/2506.09049)], NeurIPS 2025
 
-12. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
+13. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
     *Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html)], CVPR 2025
 
-13. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
+14. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
     *Huajie Tan, Xiaoshuai Hao, Cheng Chi, Minglan Lin, Yaoxu Lyu, Mingyu Cao, Dong Liang, Zhuo Chen, Mengsi Lyu, Cheng Peng, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2505.03673)], Arxiv 2025.05
 
-14. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
+15. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
     *Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, Lei Bai.* [[abs](https://arxiv.org/abs/2503.16408)], ICCV 2025
 
-15. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+16. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
     *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)], IROS 2024
 
-16. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
+17. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)] [[project](https://umass-embodied-agi.github.io/CoELA/)] [[code](https://github.com/UMass-Embodied-AGI/CoELA)], ICLR 2024
 
     
