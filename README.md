@@ -67,19 +67,22 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 
 ### 🤝 Multi-Agent Collaboration Frameworks
-1. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
+1. **CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy.**  
+   *Ria Doshi, Tian Gao, Annie Chen, Chelsea Finn, Jeannette Bohg.* [[abs](https://arxiv.org/abs/2606.12352)] [[project](https://chorus-model.github.io)], Arxiv 2026.06
+
+2. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
    *Li Kang, Yutao Fan, Rui Li, Heng Zhou, Yiran Qin, Zhemeng Zhang, Songtao Huang, Xiufeng Song, Zaibin Zhang, Bruno N.Y. Chen, Zhenfei Yin, Dongzhan Zhou, Wangmeng Zuo, Lei Bai.* [[abs](https://arxiv.org/abs/2604.05484)], Arxiv 2026.04
 
-2. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
+3. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
    *Huajie Tan, Cheng Chi, Xiansheng Chen, Yuheng Ji, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2510.26536)], Arxiv 2025.10
 
-3. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
+4. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
    *Huajie Tan, Xiaoshuai Hao, Cheng Chi, Minglan Lin, Yaoxu Lyu, Mingyu Cao, Dong Liang, Zhuo Chen, Mengsi Lyu, Cheng Peng, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2505.03673)], Arxiv 2025.05
 
-4. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
+5. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
    *Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, Lei Bai.* [[abs](https://arxiv.org/abs/2503.16408)], ICCV 2025
 
-5. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
+6. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)] [[project](https://umass-embodied-agi.github.io/CoELA/)] [[code](https://github.com/UMass-Embodied-AGI/CoELA)], ICLR 2024
 
 
@@ -115,7 +118,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 2. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
    *Enyi Wang, Wen Fan, Dandan Zhang.* [[abs](https://arxiv.org/abs/2602.21622)], ICRA 2026
 
-3. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
+3. **TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models.**  
+   *Hokyun Im, Euijin Jeong, Andrey Kolobov, Jianlong Fu, Youngwoon Lee.* [[abs](https://arxiv.org/abs/2511.05275)] [[project](https://jellyho.github.io/TwinVLA/)], ICLR 2026
+
+4. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
    *Yunsheng Tian, Joshua Jacob, Yijiang Huang, Jialiang Zhao, Edward Gu, Pingchuan Ma, Annan Zhang, Farhad Javid, Branden Romero, Sachin Chitta, Shinjiro Sueda, Hui Li, Wojciech Matusik.* [[abs](https://arxiv.org/abs/2506.05168)] [[project](https://fabrica.csail.mit.edu)] [[code](https://github.com/yunshengtian/Fabrica)], CoRL 2025 (Best Paper Award)
 
 
@@ -123,8 +129,14 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 1. **Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players.**  
    *Fangfu Liu, Kai He, Tianchang Shen, Tianshi Cao, Sanja Fidler, Yueqi Duan, Jun Gao, Igor Gilitschenski, Zian Wang, Xuanchi Ren.* [[abs](https://arxiv.org/abs/2605.28816)] [[project](https://research.nvidia.com/labs/toronto-ai/gamma-world/)] [[code](https://github.com/nv-tlabs/Gamma-World)], Arxiv 2026.05
 
-2. **MultiWorld: Scalable Multi-Agent Multi-View Video World Models.**  
+2. **VGGT-Ω: Scaling Feed-Forward Reconstruction with Register Attention.**  
+   *Jianyuan Wang, Minghao Chen, Shangzhan Zhang, Nikita Karaev, Johannes Schonberger, Patrick Labatut, Piotr Bojanowski, David Novotny, Andrea Vedaldi, Christian Rupprecht.* [[abs](https://arxiv.org/abs/2605.15195)] [[project](https://vggt-omega.github.io)] [[code](https://github.com/facebookresearch/vggt)], CVPR 2026 (Oral)
+
+3. **MultiWorld: Scalable Multi-Agent Multi-View Video World Models.**  
    *Haoyu Wu, Jiwen Yu, Yingtian Zou, Xihui Liu.* [[abs](https://arxiv.org/abs/2604.18564)], Arxiv 2026.04
+
+4. **VGGT: Visual Geometry Grounded Transformer.**  
+   *Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny.* [[abs](https://arxiv.org/abs/2503.11651)] [[project](https://huggingface.co/spaces/facebook/vggt)] [[code](https://github.com/facebookresearch/vggt)], CVPR 2025 (Best Paper Award)
 
     
 ---
