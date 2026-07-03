@@ -47,23 +47,29 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 ## 📜 Papers
 
 ### 🤖 Robotic Foundation Models & VLA
-1. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
+1. **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models.**  
+   *Qwen Team.* [[abs](https://arxiv.org/abs/2606.17846)] [[project](https://qwen.ai/blog?id=qwen-robotmanip)] [[code](https://github.com/QwenLM/Qwen-RobotManip)], Arxiv 2026.06
+
+2. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
    *Physical Intelligence (Bo Ai, Ali Amin, Raichelle Aniceto, et al.).* [[abs](https://arxiv.org/abs/2604.15483)] [[project](https://www.pi.website/blog/pi07)], Arxiv 2026.04
 
-2. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
-   *Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel Y. Galliker, Dibya Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Allen Z. Ren, Lucy Xiaoyang Shi, Laura Smith, Jost Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer Walke, Anna Walling, Haohuan Wang, Lili Yu, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2504.16054)] [[project](https://pi.website/blog/pi05)], CoRL 2025
+3. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
+   *Zijian Song, Qichang Li, Jiawei Zhou, Zhenlong Yuan, Tianshui Chen, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2604.12908)], Arxiv 2026.04
 
-3. **Stable Language Guidance for Vision-Language-Action Models.**  
+4. **Stable Language Guidance for Vision-Language-Action Models.**  
    *Zhihao Zhan, Yuhao Chen, Jiaying Zhou, Qinhan Lv, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2601.04052)], Arxiv 2026.01
 
-4. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
+5. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
    *Weiqi Li, Quande Zhang, Ruifeng Zhai, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2512.02902)], Arxiv 2025.12
 
-5. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
-   *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)], IROS 2024
+6. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
+   *Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel Y. Galliker, Dibya Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Allen Z. Ren, Lucy Xiaoyang Shi, Laura Smith, Jost Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer Walke, Anna Walling, Haohuan Wang, Lili Yu, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2504.16054)] [[project](https://pi.website/blog/pi05)], CoRL 2025
 
-6. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
+7. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
    *Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2410.24164)] [[project](https://physicalintelligence.company/blog/pi0)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2024.10
+
+8. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+   *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)], IROS 2024
 
 
 ### 🤝 Multi-Agent Collaboration Frameworks
@@ -135,7 +141,10 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 3. **MultiWorld: Scalable Multi-Agent Multi-View Video World Models.**  
    *Haoyu Wu, Jiwen Yu, Yingtian Zou, Xihui Liu.* [[abs](https://arxiv.org/abs/2604.18564)], Arxiv 2026.04
 
-4. **VGGT: Visual Geometry Grounded Transformer.**  
+4. **Empowering Multi-Robot Cooperation via Sequential World Models.**  
+   *Zijie Zhao, Honglei Guo, Shengqian Chen, Kaixuan Xu, Bo Jiang, Yuanheng Zhu, Dongbin Zhao.* [[abs](https://arxiv.org/abs/2509.13095)] [[code](https://github.com/zhaozijie2022/seqwm)], ICLR 2026
+
+5. **VGGT: Visual Geometry Grounded Transformer.**  
    *Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny.* [[abs](https://arxiv.org/abs/2503.11651)] [[project](https://huggingface.co/spaces/facebook/vggt)] [[code](https://github.com/facebookresearch/vggt)], CVPR 2025 (Best Paper Award)
 
     
