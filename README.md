@@ -132,19 +132,25 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 
 ### 🌍 World Models & Generation
-1. **Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players.**  
+1. **Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation.**  
+   *Qwen Team.* [[abs](https://arxiv.org/abs/2606.17030)], Arxiv 2026.06
+
+2. **Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination.**  
+   *Jiajun Li, Tiecheng Guo, Yifan Ye, Rongyu Zhang, Xiaowei Chi, Qianpu Sun, Ying Li, Yunfan Lou, Yan Huang, Zhihe Lu, Meng Guo, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2606.10040)], Arxiv 2026.06
+
+3. **Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players.**  
    *Fangfu Liu, Kai He, Tianchang Shen, Tianshi Cao, Sanja Fidler, Yueqi Duan, Jun Gao, Igor Gilitschenski, Zian Wang, Xuanchi Ren.* [[abs](https://arxiv.org/abs/2605.28816)] [[project](https://research.nvidia.com/labs/toronto-ai/gamma-world/)] [[code](https://github.com/nv-tlabs/Gamma-World)], Arxiv 2026.05
 
-2. **VGGT-Ω: Scaling Feed-Forward Reconstruction with Register Attention.**  
+4. **VGGT-Ω: Scaling Feed-Forward Reconstruction with Register Attention.**  
    *Jianyuan Wang, Minghao Chen, Shangzhan Zhang, Nikita Karaev, Johannes Schonberger, Patrick Labatut, Piotr Bojanowski, David Novotny, Andrea Vedaldi, Christian Rupprecht.* [[abs](https://arxiv.org/abs/2605.15195)] [[project](https://vggt-omega.github.io)] [[code](https://github.com/facebookresearch/vggt)], CVPR 2026 (Oral)
 
-3. **MultiWorld: Scalable Multi-Agent Multi-View Video World Models.**  
+5. **MultiWorld: Scalable Multi-Agent Multi-View Video World Models.**  
    *Haoyu Wu, Jiwen Yu, Yingtian Zou, Xihui Liu.* [[abs](https://arxiv.org/abs/2604.18564)], Arxiv 2026.04
 
-4. **Empowering Multi-Robot Cooperation via Sequential World Models.**  
+6. **Empowering Multi-Robot Cooperation via Sequential World Models.**  
    *Zijie Zhao, Honglei Guo, Shengqian Chen, Kaixuan Xu, Bo Jiang, Yuanheng Zhu, Dongbin Zhao.* [[abs](https://arxiv.org/abs/2509.13095)] [[code](https://github.com/zhaozijie2022/seqwm)], ICLR 2026
 
-5. **VGGT: Visual Geometry Grounded Transformer.**  
+7. **VGGT: Visual Geometry Grounded Transformer.**  
    *Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny.* [[abs](https://arxiv.org/abs/2503.11651)] [[project](https://huggingface.co/spaces/facebook/vggt)] [[code](https://github.com/facebookresearch/vggt)], CVPR 2025 (Best Paper Award)
 
     
