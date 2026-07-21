@@ -118,17 +118,26 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 
 ### 🦾 Manipulation & Dexterity
-1. **Bimanual Robot Manipulation via Multi-Agent In-Context Learning.**  
+1. **Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems.**  
+   *Yandong Wang, Jiaqian Yu, Xiongfeng Peng, Lu Xu, Yamin Mao, Weiming Li, Jaewook Yoo, Dongwook Lee, Daehyun Ji, Mingbo Zhao, Chao Zhang.* [[abs](https://arxiv.org/abs/2606.20285)], Arxiv 2026.06
+
+2. **Bimanual Robot Manipulation via Multi-Agent In-Context Learning.**  
    *Alessio Palma, Indro Spinelli, Vignesh Prasad, Luca Scofano, Yufeng Jin, Georgia Chalvatzaki, Fabio Galasso.* [[abs](https://arxiv.org/abs/2604.20348)], Arxiv 2026.04
 
-2. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
+3. **EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models.**  
+   *Mingchen Song, Xiang Deng, Jie Wei, Dongmei Jiang, Liqiang Nie, Weili Guan.* [[abs](https://arxiv.org/abs/2603.20236)] [[code](https://github.com/codeshop715/EnergyAction)], CVPR 2026
+
+4. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
    *Enyi Wang, Wen Fan, Dandan Zhang.* [[abs](https://arxiv.org/abs/2602.21622)], ICRA 2026
 
-3. **TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models.**  
+5. **TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models.**  
    *Hokyun Im, Euijin Jeong, Andrey Kolobov, Jianlong Fu, Youngwoon Lee.* [[abs](https://arxiv.org/abs/2511.05275)] [[project](https://jellyho.github.io/TwinVLA/)], ICLR 2026
 
-4. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
+6. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
    *Yunsheng Tian, Joshua Jacob, Yijiang Huang, Jialiang Zhao, Edward Gu, Pingchuan Ma, Annan Zhang, Farhad Javid, Branden Romero, Sachin Chitta, Shinjiro Sueda, Hui Li, Wojciech Matusik.* [[abs](https://arxiv.org/abs/2506.05168)] [[project](https://fabrica.csail.mit.edu)] [[code](https://github.com/yunshengtian/Fabrica)], CoRL 2025 (Best Paper Award)
+
+7. **AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation.**  
+   *Guanxing Lu, Tengbo Yu, Haoyuan Deng, Season Si Chen, Yansong Tang, Ziwei Wang.* [[abs](https://arxiv.org/abs/2412.06779)] [[project](https://anybimanual.github.io)] [[code](https://github.com/Tengbo-Yu/AnyBimanual)], ICCV 2025
 
 
 ### 🌍 World Models & Generation
