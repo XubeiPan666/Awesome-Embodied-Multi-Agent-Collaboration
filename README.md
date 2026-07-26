@@ -110,10 +110,13 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 1. **From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents.**  
    *SeungWon Seo, SooBin Lim, Seongrae Noh, Haneul Kim, HyeongYeop Kang.* [[abs](https://arxiv.org/abs/2602.04326)], ICLR 2026
 
-2. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
+2. **RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic.**  
+   *Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu.* [[abs](https://arxiv.org/abs/2512.21220)], Arxiv 2025.12
+
+3. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
    *Shaobin Ling, Yun Wang, Chenyou Fan, Tin Lun Lam, Junjie Hu.* [[abs](https://arxiv.org/abs/2509.24230)], Arxiv 2025.09
 
-3. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
+4. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
    *Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html)], CVPR 2025
 
 
