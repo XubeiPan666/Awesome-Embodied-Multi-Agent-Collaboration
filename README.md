@@ -59,36 +59,42 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 4. **Stable Language Guidance for Vision-Language-Action Models.**  
    *Zhihao Zhan, Yuhao Chen, Jiaying Zhou, Qinhan Lv, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2601.04052)], Arxiv 2026.01
 
-5. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
+5. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
+   *Heng Fang, Shangru Li, Shuhan Wang, Xuanyang Xi, Dingkang Liang, Xiang Bai.* [[abs](https://arxiv.org/abs/2603.15620)] [[project](https://h-embodvis.github.io/DOMINO/)] [[code](https://github.com/H-EmbodVis/DOMINO)], ECCV 2026
+
+6. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
    *Weiqi Li, Quande Zhang, Ruifeng Zhai, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2512.02902)], Arxiv 2025.12
 
-6. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
+7. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
    *Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel Y. Galliker, Dibya Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Allen Z. Ren, Lucy Xiaoyang Shi, Laura Smith, Jost Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer Walke, Anna Walling, Haohuan Wang, Lili Yu, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2504.16054)] [[project](https://pi.website/blog/pi05)], CoRL 2025
 
-7. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
+8. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
    *Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2410.24164)] [[project](https://physicalintelligence.company/blog/pi0)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2024.10
 
-8. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+9. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
    *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)], IROS 2024
 
 
 ### 🤝 Multi-Agent Collaboration Frameworks
-1. **CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy.**  
+1. **A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation.**  
+   *Yi-Xiang He, Lan Wei, Haoming Cen, Jian-Jian Jiang, Zhuohao Li, Guanxing Lu, Yihan Yang, Dandan Zhang, Wei-Shi Zheng.* [[abs](https://arxiv.org/abs/2607.06990)], RSS 2026
+
+2. **CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy.**  
    *Ria Doshi, Tian Gao, Annie Chen, Chelsea Finn, Jeannette Bohg.* [[abs](https://arxiv.org/abs/2606.12352)] [[project](https://chorus-model.github.io)], Arxiv 2026.06
 
-2. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
+3. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
    *Li Kang, Yutao Fan, Rui Li, Heng Zhou, Yiran Qin, Zhemeng Zhang, Songtao Huang, Xiufeng Song, Zaibin Zhang, Bruno N.Y. Chen, Zhenfei Yin, Dongzhan Zhou, Wangmeng Zuo, Lei Bai.* [[abs](https://arxiv.org/abs/2604.05484)], Arxiv 2026.04
 
-3. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
+4. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
    *Huajie Tan, Cheng Chi, Xiansheng Chen, Yuheng Ji, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2510.26536)], Arxiv 2025.10
 
-4. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
+5. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
    *Huajie Tan, Xiaoshuai Hao, Cheng Chi, Minglan Lin, Yaoxu Lyu, Mingyu Cao, Dong Liang, Zhuo Chen, Mengsi Lyu, Cheng Peng, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2505.03673)], Arxiv 2025.05
 
-5. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
+6. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
    *Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, Lei Bai.* [[abs](https://arxiv.org/abs/2503.16408)], ICCV 2025
 
-6. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
+7. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)] [[project](https://umass-embodied-agi.github.io/CoELA/)] [[code](https://github.com/UMass-Embodied-AGI/CoELA)], ICLR 2024
 
 
@@ -110,13 +116,16 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 1. **From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents.**  
    *SeungWon Seo, SooBin Lim, Seongrae Noh, Haneul Kim, HyeongYeop Kang.* [[abs](https://arxiv.org/abs/2602.04326)], ICLR 2026
 
-2. **RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic.**  
+2. **Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI.**  
+   *Feiyu Wu, Xu Zheng, Yue Qu, Zhuocheng Wang, Zicheng Feng, Hui Li.* [[abs](https://arxiv.org/abs/2602.08373)] [[project](https://sn0wm1an.github.io/)] [[code](https://github.com/Sn0wm1an/VIRF)], ICLR 2026
+
+3. **RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic.**  
    *Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, Zhenfei Yin, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu.* [[abs](https://arxiv.org/abs/2512.21220)], Arxiv 2025.12
 
-3. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
+4. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
    *Shaobin Ling, Yun Wang, Chenyou Fan, Tin Lun Lam, Junjie Hu.* [[abs](https://arxiv.org/abs/2509.24230)], Arxiv 2025.09
 
-4. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
+5. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
    *Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html)], CVPR 2025
 
 
