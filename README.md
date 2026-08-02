@@ -82,19 +82,22 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 2. **CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy.**  
    *Ria Doshi, Tian Gao, Annie Chen, Chelsea Finn, Jeannette Bohg.* [[abs](https://arxiv.org/abs/2606.12352)] [[project](https://chorus-model.github.io)], Arxiv 2026.06
 
-3. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
+3. **Distilling Collaborative Dynamics into Latent Space for Implicit Coordination in Decentralized Multi-Agent Manipulation.**  
+   *Chanyoung Park, Minsung Yoon, Andrew Jeong, Sung-eui Yoon.* [[abs](https://arxiv.org/abs/2606.22982)] [[project](https://cosdeneb.github.io/cls-dp/)], IROS 2026
+
+4. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
    *Li Kang, Yutao Fan, Rui Li, Heng Zhou, Yiran Qin, Zhemeng Zhang, Songtao Huang, Xiufeng Song, Zaibin Zhang, Bruno N.Y. Chen, Zhenfei Yin, Dongzhan Zhou, Wangmeng Zuo, Lei Bai.* [[abs](https://arxiv.org/abs/2604.05484)], Arxiv 2026.04
 
-4. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
+5. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
    *Huajie Tan, Cheng Chi, Xiansheng Chen, Yuheng Ji, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2510.26536)], Arxiv 2025.10
 
-5. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
+6. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
    *Huajie Tan, Xiaoshuai Hao, Cheng Chi, Minglan Lin, Yaoxu Lyu, Mingyu Cao, Dong Liang, Zhuo Chen, Mengsi Lyu, Cheng Peng, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2505.03673)], Arxiv 2025.05
 
-6. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
+7. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
    *Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, Lei Bai.* [[abs](https://arxiv.org/abs/2503.16408)], ICCV 2025
 
-7. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
+8. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
    *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)] [[project](https://umass-embodied-agi.github.io/CoELA/)] [[code](https://github.com/UMass-Embodied-AGI/CoELA)], ICLR 2024
 
 
