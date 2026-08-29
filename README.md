@@ -50,31 +50,37 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 1. **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models.**  
    *Qwen Team.* [[abs](https://arxiv.org/abs/2606.17846)] [[project](https://qwen.ai/blog?id=qwen-robotmanip)] [[code](https://github.com/QwenLM/Qwen-RobotManip)], Arxiv 2026.06
 
-2. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
+2. **T-Rex: Tactile-Reactive Dexterous Manipulation.**  
+   *Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao, Zhao-Heng Yin, Anirudh Pai, et al.* [[abs](https://arxiv.org/abs/2606.17055)] [[project](https://tactile-rex.github.io/)] [[code](https://github.com/ZhuoyangLiu2005/T-Rex)], Arxiv 2026.06
+
+3. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
    *Physical Intelligence (Bo Ai, Ali Amin, Raichelle Aniceto, et al.).* [[abs](https://arxiv.org/abs/2604.15483)] [[project](https://www.pi.website/blog/pi07)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2026.04
 
-3. **TCoT: Trajectory Chain-of-Thoughts for Robotic Manipulation with Failure Recovery in Vision-Language-Action Model.**  
+4. **TCoT: Trajectory Chain-of-Thoughts for Robotic Manipulation with Failure Recovery in Vision-Language-Action Model.**  
    *Xiang Li, Ya-Li Li, Yuan Wang, Huaqiang Wang, Shengjin Wang.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/37577)] [[code](https://github.com/Serenos/TCoT)], AAAI 2026
 
-4. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
+5. **Adaptive Action Chunking at Inference-time for Vision-Language-Action Models.**  
+   *Yuanchang Liang, Xiaobo Wang, Kai Wang, Shuo Wang, Xiaojiang Peng, Haoyu Chen, David Kim Huat Chua, Prahlad Vadakkepat.* [[abs](https://arxiv.org/abs/2604.04161)] [[project](https://lance-lot.github.io/adaptive-chunking.github.io/)], CVPR 2026
+
+6. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
    *Zijian Song, Qichang Li, Jiawei Zhou, Zhenlong Yuan, Tianshui Chen, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2604.12908)], Arxiv 2026.04
 
-5. **Stable Language Guidance for Vision-Language-Action Models.**  
+7. **Stable Language Guidance for Vision-Language-Action Models.**  
    *Zhihao Zhan, Yuhao Chen, Jiaying Zhou, Qinhan Lv, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2601.04052)], Arxiv 2026.01
 
-6. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
+8. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
    *Heng Fang, Shangru Li, Shuhan Wang, Xuanyang Xi, Dingkang Liang, Xiang Bai.* [[abs](https://arxiv.org/abs/2603.15620)] [[project](https://h-embodvis.github.io/DOMINO/)] [[code](https://github.com/H-EmbodVis/DOMINO)], ECCV 2026
 
-7. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
+9. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
    *Weiqi Li, Quande Zhang, Ruifeng Zhai, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2512.02902)], Arxiv 2025.12
 
-8. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
+10. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
    *Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel Y. Galliker, Dibya Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Allen Z. Ren, Lucy Xiaoyang Shi, Laura Smith, Jost Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer Walke, Anna Walling, Haohuan Wang, Lili Yu, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2504.16054)] [[project](https://pi.website/blog/pi05)] [[code](https://github.com/Physical-Intelligence/openpi)], CoRL 2025
 
-9. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
+11. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
    *Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2410.24164)] [[project](https://physicalintelligence.company/blog/pi0)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2024.10
 
-10. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+12. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
    *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)] [[code](https://github.com/SMARTlab-Purdue/SMART-LLM)], IROS 2024
 
 
@@ -137,30 +143,36 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 4. **ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent Collaboration.**  
    *Shaobin Ling, Yun Wang, Chenyou Fan, Tin Lun Lam, Junjie Hu.* [[abs](https://arxiv.org/abs/2509.24230)], Arxiv 2025.09
 
-5. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
+5. **Open-World Skill Discovery from Unsegmented Demonstration Videos.**  
+   *Jingwen Deng, Zihao Wang, Shaofei Cai, Anji Liu, Yitao Liang.* [[abs](https://arxiv.org/abs/2503.10684)] [[project](https://craftjarvis.github.io/SkillDiscovery/)] [[code](https://github.com/CraftJarvis/SkillDiscovery)], ICCV 2025
+
+6. **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration.**  
    *Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou.* [[abs](https://openaccess.thecvf.com/content/CVPR2025/html/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.html)] [[code](https://github.com/zulihit/CoTS)], CVPR 2025
 
 
 ### 🦾 Manipulation & Dexterity
-1. **Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems.**  
+1. **ASPIRE: Agentic Skill Programming through Iterative Robot Exploration.**  
+   *Runyu Lu, Yubo Wu, Ethan Kou, Letian Fu, Wenli Xiao, Ajay Mandlekar, Yinzhen Xu, Guanya Shi, Ken Goldberg, Ang Chen, Mosharaf Chowdhury, Yuke Zhu, Linxi "Jim" Fan, Guanzhi Wang.* [[abs](https://arxiv.org/abs/2607.00272)] [[project](https://research.nvidia.com/labs/gear/aspire/)] [[code](https://github.com/NVlabs/ASPIRE)], Arxiv 2026.07
+
+2. **Co-VLA: Coordination-Aware Structured Action Modeling for Dual-Arm Vision-Language-Action Systems.**  
    *Yandong Wang, Jiaqian Yu, Xiongfeng Peng, Lu Xu, Yamin Mao, Weiming Li, Jaewook Yoo, Dongwook Lee, Daehyun Ji, Mingbo Zhao, Chao Zhang.* [[abs](https://arxiv.org/abs/2606.20285)], Arxiv 2026.06
 
-2. **Bimanual Robot Manipulation via Multi-Agent In-Context Learning.**  
+3. **Bimanual Robot Manipulation via Multi-Agent In-Context Learning.**  
    *Alessio Palma, Indro Spinelli, Vignesh Prasad, Luca Scofano, Yufeng Jin, Georgia Chalvatzaki, Fabio Galasso.* [[abs](https://arxiv.org/abs/2604.20348)], Arxiv 2026.04
 
-3. **EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models.**  
+4. **EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models.**  
    *Mingchen Song, Xiang Deng, Jie Wei, Dongmei Jiang, Liqiang Nie, Weili Guan.* [[abs](https://arxiv.org/abs/2603.20236)] [[code](https://github.com/codeshop715/EnergyAction)], CVPR 2026
 
-4. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
+5. **ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation.**  
    *Enyi Wang, Wen Fan, Dandan Zhang.* [[abs](https://arxiv.org/abs/2602.21622)], ICRA 2026
 
-5. **TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models.**  
+6. **TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models.**  
    *Hokyun Im, Euijin Jeong, Andrey Kolobov, Jianlong Fu, Youngwoon Lee.* [[abs](https://arxiv.org/abs/2511.05275)] [[project](https://jellyho.github.io/TwinVLA/)] [[code](https://github.com/jellyho/TwinVLA)], ICLR 2026
 
-6. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
+7. **Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning.**  
    *Yunsheng Tian, Joshua Jacob, Yijiang Huang, Jialiang Zhao, Edward Gu, Pingchuan Ma, Annan Zhang, Farhad Javid, Branden Romero, Sachin Chitta, Shinjiro Sueda, Hui Li, Wojciech Matusik.* [[abs](https://arxiv.org/abs/2506.05168)] [[project](https://fabrica.csail.mit.edu)] [[code](https://github.com/yunshengtian/Fabrica)], CoRL 2025 (Best Paper Award)
 
-7. **AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation.**  
+8. **AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation.**  
    *Guanxing Lu, Tengbo Yu, Haoyuan Deng, Season Si Chen, Yansong Tang, Ziwei Wang.* [[abs](https://arxiv.org/abs/2412.06779)] [[project](https://anybimanual.github.io)] [[code](https://github.com/Tengbo-Yu/AnyBimanual)], ICCV 2025
 
 
