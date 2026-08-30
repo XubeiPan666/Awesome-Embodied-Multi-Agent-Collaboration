@@ -47,72 +47,81 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 ## 📜 Papers
 
 ### 🤖 Robotic Foundation Models & VLA
-1. **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models.**  
+1. **Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents.**  
+   *Yixian Zhang, Huanming Zhang, Feng Gao, Xiao Li, Zhihao Liu, Chunyang Zhu, Jiaxing Qiu, Yuchen Yan, Jiyuan Liu, Wenhao Tang, Zhengru Fang, Yi Nie, Changxu Wei, Yu Wang, Wenbo Ding, Chao Yu.* [[abs](https://arxiv.org/abs/2607.08448)] [[project](https://harnessvla.github.io/)] [[code](https://github.com/RLinf/RPent)], Arxiv 2026.07
+
+2. **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models.**  
    *Qwen Team.* [[abs](https://arxiv.org/abs/2606.17846)] [[project](https://qwen.ai/blog?id=qwen-robotmanip)] [[code](https://github.com/QwenLM/Qwen-RobotManip)], Arxiv 2026.06
 
-2. **T-Rex: Tactile-Reactive Dexterous Manipulation.**  
+3. **T-Rex: Tactile-Reactive Dexterous Manipulation.**  
    *Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao, Zhao-Heng Yin, Anirudh Pai, et al.* [[abs](https://arxiv.org/abs/2606.17055)] [[project](https://tactile-rex.github.io/)] [[code](https://github.com/ZhuoyangLiu2005/T-Rex)], Arxiv 2026.06
 
-3. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
+4. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
    *Physical Intelligence (Bo Ai, Ali Amin, Raichelle Aniceto, et al.).* [[abs](https://arxiv.org/abs/2604.15483)] [[project](https://www.pi.website/blog/pi07)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2026.04
 
-4. **TCoT: Trajectory Chain-of-Thoughts for Robotic Manipulation with Failure Recovery in Vision-Language-Action Model.**  
+5. **TCoT: Trajectory Chain-of-Thoughts for Robotic Manipulation with Failure Recovery in Vision-Language-Action Model.**  
    *Xiang Li, Ya-Li Li, Yuan Wang, Huaqiang Wang, Shengjin Wang.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/37577)] [[code](https://github.com/Serenos/TCoT)], AAAI 2026
 
-5. **Adaptive Action Chunking at Inference-time for Vision-Language-Action Models.**  
+6. **Adaptive Action Chunking at Inference-time for Vision-Language-Action Models.**  
    *Yuanchang Liang, Xiaobo Wang, Kai Wang, Shuo Wang, Xiaojiang Peng, Haoyu Chen, David Kim Huat Chua, Prahlad Vadakkepat.* [[abs](https://arxiv.org/abs/2604.04161)] [[project](https://lance-lot.github.io/adaptive-chunking.github.io/)], CVPR 2026
 
-6. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
+7. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
    *Zijian Song, Qichang Li, Jiawei Zhou, Zhenlong Yuan, Tianshui Chen, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2604.12908)], Arxiv 2026.04
 
-7. **Stable Language Guidance for Vision-Language-Action Models.**  
+8. **Stable Language Guidance for Vision-Language-Action Models.**  
    *Zhihao Zhan, Yuhao Chen, Jiaying Zhou, Qinhan Lv, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2601.04052)], Arxiv 2026.01
 
-8. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
+9. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
    *Heng Fang, Shangru Li, Shuhan Wang, Xuanyang Xi, Dingkang Liang, Xiang Bai.* [[abs](https://arxiv.org/abs/2603.15620)] [[project](https://h-embodvis.github.io/DOMINO/)] [[code](https://github.com/H-EmbodVis/DOMINO)], ECCV 2026
 
-9. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
+10. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
    *Weiqi Li, Quande Zhang, Ruifeng Zhai, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2512.02902)], Arxiv 2025.12
 
-10. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
+11. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
    *Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel Y. Galliker, Dibya Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Allen Z. Ren, Lucy Xiaoyang Shi, Laura Smith, Jost Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer Walke, Anna Walling, Haohuan Wang, Lili Yu, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2504.16054)] [[project](https://pi.website/blog/pi05)] [[code](https://github.com/Physical-Intelligence/openpi)], CoRL 2025
 
-11. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
+12. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
    *Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2410.24164)] [[project](https://physicalintelligence.company/blog/pi0)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2024.10
 
-12. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+13. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
    *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)] [[code](https://github.com/SMARTlab-Purdue/SMART-LLM)], IROS 2024
 
 
 ### 🤝 Multi-Agent Collaboration Frameworks
-1. **Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models.**  
-   *Kunyu Peng, Zhikun Zhou, Kailun Yang, Di Wen, Yufan Chen, Junwei Zheng, Luc Van Gool.* [[abs](https://arxiv.org/abs/2605.18431)] [[code](https://github.com/KPeng9510/seeing-together)], Arxiv 2026.05
-
-2. **A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation.**  
+1. **A Closed-Loop Multi-Agent Framework for Robust Multi-Robot Manipulation.**  
    *Yi-Xiang He, Lan Wei, Haoming Cen, Jian-Jian Jiang, Zhuohao Li, Guanxing Lu, Yihan Yang, Dandan Zhang, Wei-Shi Zheng.* [[abs](https://arxiv.org/abs/2607.06990)], RSS 2026
 
-3. **CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy.**  
-   *Ria Doshi, Tian Gao, Annie Chen, Chelsea Finn, Jeannette Bohg.* [[abs](https://arxiv.org/abs/2606.12352)] [[project](https://chorus-model.github.io)], Arxiv 2026.06
+2. **LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior.**  
+   *Qinhong Zhou, Chuang Gan, Anoop Cherian.* [[abs](https://arxiv.org/abs/2606.28182)] [[project](https://merl.com/research/highlights/LLawCo)] [[code](https://github.com/merlresearch/llawco)], ICML 2026
 
-4. **Distilling Collaborative Dynamics into Latent Space for Implicit Coordination in Decentralized Multi-Agent Manipulation.**  
+3. **Distilling Collaborative Dynamics into Latent Space for Implicit Coordination in Decentralized Multi-Agent Manipulation.**  
    *Chanyoung Park, Minsung Yoon, Andrew Jeong, Sung-eui Yoon.* [[abs](https://arxiv.org/abs/2606.22982)] [[project](https://cosdeneb.github.io/cls-dp/)], IROS 2026
 
-5. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
+4. **CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy.**  
+   *Ria Doshi, Tian Gao, Annie Chen, Chelsea Finn, Jeannette Bohg.* [[abs](https://arxiv.org/abs/2606.12352)] [[project](https://chorus-model.github.io)], Arxiv 2026.06
+
+5. **Sentinel: Embodied Cooperative Spatial Reasoning and Planning.**  
+   *Xiangye Lin, Hongxin Zhang, Ruxi Deng, Qinhong Zhou, Chuang Gan.* [[abs](https://arxiv.org/abs/2605.26239)] [[code](https://github.com/UMass-Embodied-AGI/Sentinel)], Arxiv 2026.05
+
+6. **Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models.**  
+   *Kunyu Peng, Zhikun Zhou, Kailun Yang, Di Wen, Yufan Chen, Junwei Zheng, Luc Van Gool.* [[abs](https://arxiv.org/abs/2605.18431)] [[code](https://github.com/KPeng9510/seeing-together)], Arxiv 2026.05
+
+7. **CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment.**  
    *Li Kang, Yutao Fan, Rui Li, Heng Zhou, Yiran Qin, Zhemeng Zhang, Songtao Huang, Xiufeng Song, Zaibin Zhang, Bruno N.Y. Chen, Zhenfei Yin, Dongzhan Zhou, Wangmeng Zuo, Lei Bai.* [[abs](https://arxiv.org/abs/2604.05484)] [[code](https://github.com/MARS-EAI/CoEnv)], Arxiv 2026.04
 
-6. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
+8. **RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration.**  
    *Huajie Tan, Cheng Chi, Xiansheng Chen, Yuheng Ji, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2510.26536)] [[code](https://github.com/FlagOpen/RoboOS)], Arxiv 2025.10
 
-7. **Thought Communication in Multiagent Collaboration.**  
+9. **Thought Communication in Multiagent Collaboration.**  
    *Yujia Zheng, Zhuokai Zhao, Zijian Li, Yaqi Xie, Mingze Gao, Lizhu Zhang, Kun Zhang.* [[abs](https://arxiv.org/abs/2510.20733)], NeurIPS 2025
 
-8. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
+10. **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.**  
    *Huajie Tan, Xiaoshuai Hao, Cheng Chi, Minglan Lin, Yaoxu Lyu, Mingyu Cao, Dong Liang, Zhuo Chen, Mengsi Lyu, Cheng Peng, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang.* [[abs](https://arxiv.org/abs/2505.03673)] [[code](https://github.com/FlagOpen/RoboOS)], Arxiv 2025.05
 
-9. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
+11. **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints.**  
    *Yiran Qin, Li Kang, Xiufeng Song, Zhenfei Yin, Xiaohong Liu, Xihui Liu, Ruimao Zhang, Lei Bai.* [[abs](https://arxiv.org/abs/2503.16408)] [[code](https://github.com/MARS-EAI/RoboFactory)], ICCV 2025
 
-10. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
+12. **Building Cooperative Embodied Agents Modularly with Large Language Models.**  
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.* [[abs](https://arxiv.org/abs/2307.02485)] [[project](https://umass-embodied-agi.github.io/CoELA/)] [[code](https://github.com/UMass-Embodied-AGI/CoELA)], ICLR 2024
 
 
