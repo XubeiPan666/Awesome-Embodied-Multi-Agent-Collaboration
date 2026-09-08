@@ -33,6 +33,7 @@
   - [📋 Task Planning & Coordination](#-task-planning--coordination)
   - [🦾 Manipulation & Dexterity](#-manipulation--dexterity)
   - [🌍 World Models & Generation](#-world-models--generation)
+  - [🧠 LLM & Transformer Architecture](#-llm--transformer-architecture)
 
 ---
 ## 🌟 Introduction
@@ -47,49 +48,55 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 ## 📜 Papers
 
 ### 🤖 Robotic Foundation Models & VLA
-1. **Galaxea G0.5: One Autoregressive Stream for Robot Reasoning and Action.**  
+1. **Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups.**  
+   *Zeyun Deng, Yuzhe Lu, Yawei Wang, Linbo Liu, Qing Ping, Han Ding, Guande Wu, Panpan Xu, Jun Huan.* [[abs](https://arxiv.org/abs/2608.17423)], Arxiv 2026.08
+
+2. **Galaxea G0.5: One Autoregressive Stream for Robot Reasoning and Action.**  
    *Galaxea Team.* [[abs](https://arxiv.org/abs/2608.11739)] [[project](https://opengalaxea.github.io/G05/)] [[code](https://github.com/OpenGalaxea/GalaxeaVLA)], Arxiv 2026.08
 
-2. **Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents.**  
+3. **Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents.**  
    *Yixian Zhang, Huanming Zhang, Feng Gao, Xiao Li, Zhihao Liu, Chunyang Zhu, Jiaxing Qiu, Yuchen Yan, Jiyuan Liu, Wenhao Tang, Zhengru Fang, Yi Nie, Changxu Wei, Yu Wang, Wenbo Ding, Chao Yu.* [[abs](https://arxiv.org/abs/2607.08448)] [[project](https://harnessvla.github.io/)] [[code](https://github.com/RLinf/RPent)], Arxiv 2026.07
 
-3. **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models.**  
+4. **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models.**  
    *Qwen Team.* [[abs](https://arxiv.org/abs/2606.17846)] [[project](https://qwen.ai/blog?id=qwen-robotmanip)] [[code](https://github.com/QwenLM/Qwen-RobotManip)], Arxiv 2026.06
 
-4. **T-Rex: Tactile-Reactive Dexterous Manipulation.**  
+5. **T-Rex: Tactile-Reactive Dexterous Manipulation.**  
    *Dantong Niu, Zhuoyang Liu, Zekai Wang, Boning Shao, Zhao-Heng Yin, Anirudh Pai, et al.* [[abs](https://arxiv.org/abs/2606.17055)] [[project](https://tactile-rex.github.io/)] [[code](https://github.com/ZhuoyangLiu2005/T-Rex)], Arxiv 2026.06
 
-5. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
+6. **What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents.**  
+   *Jiaheng Hu, Mohit Shridhar, Caden Lu, Dhruv Shah, Hao-Tien Lewis Chiang, Jie Tan, Annie Xie.* [[abs](https://arxiv.org/abs/2606.10267)] [[project](https://jiahenghu.github.io/hi-vla)], Arxiv 2026.06
+
+7. **π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities.**  
    *Physical Intelligence (Bo Ai, Ali Amin, Raichelle Aniceto, et al.).* [[abs](https://arxiv.org/abs/2604.15483)] [[project](https://www.pi.website/blog/pi07)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2026.04
 
-6. **TCoT: Trajectory Chain-of-Thoughts for Robotic Manipulation with Failure Recovery in Vision-Language-Action Model.**  
+8. **TCoT: Trajectory Chain-of-Thoughts for Robotic Manipulation with Failure Recovery in Vision-Language-Action Model.**  
    *Xiang Li, Ya-Li Li, Yuan Wang, Huaqiang Wang, Shengjin Wang.* [[abs](https://ojs.aaai.org/index.php/AAAI/article/view/37577)] [[code](https://github.com/Serenos/TCoT)], AAAI 2026
 
-7. **Adaptive Action Chunking at Inference-time for Vision-Language-Action Models.**  
+9. **Adaptive Action Chunking at Inference-time for Vision-Language-Action Models.**  
    *Yuanchang Liang, Xiaobo Wang, Kai Wang, Shuo Wang, Xiaojiang Peng, Haoyu Chen, David Kim Huat Chua, Prahlad Vadakkepat.* [[abs](https://arxiv.org/abs/2604.04161)] [[project](https://lance-lot.github.io/adaptive-chunking.github.io/)], CVPR 2026
 
-8. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
+10. **Robotic Manipulation is Vision-to-Geometry Mapping (f(v) -> G): Vision-Geometry Backbones over Language and Video Models.**  
    *Zijian Song, Qichang Li, Jiawei Zhou, Zhenlong Yuan, Tianshui Chen, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2604.12908)], Arxiv 2026.04
 
-9. **Stable Language Guidance for Vision-Language-Action Models.**  
+11. **Stable Language Guidance for Vision-Language-Action Models.**  
    *Zhihao Zhan, Yuhao Chen, Jiaying Zhou, Qinhan Lv, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2601.04052)], Arxiv 2026.01
 
-10. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
+12. **Towards Generalizable Robotic Manipulation in Dynamic Environments.**  
    *Heng Fang, Shangru Li, Shuhan Wang, Xuanyang Xi, Dingkang Liang, Xiang Bai.* [[abs](https://arxiv.org/abs/2603.15620)] [[project](https://h-embodvis.github.io/DOMINO/)] [[code](https://github.com/H-EmbodVis/DOMINO)], ECCV 2026
 
-11. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
+13. **VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling.**  
    *Weiqi Li, Quande Zhang, Ruifeng Zhai, Liang Lin, Guangrun Wang.* [[abs](https://arxiv.org/abs/2512.02902)], Arxiv 2025.12
 
-12. **EvoVLA: Self-Evolving Vision-Language-Action Model.**  
+14. **EvoVLA: Self-Evolving Vision-Language-Action Model.**  
    *Zeting Liu, Zida Yang, Zeyu Zhang, Hao Tang.* [[abs](https://arxiv.org/abs/2511.16166)] [[project](https://aigeeksgroup.github.io/EvoVLA)] [[code](https://github.com/AIGeeksGroup/EvoVLA)], Arxiv 2025.11
 
-13. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
+15. **π0.5: a Vision-Language-Action Model with Open-World Generalization.**  
    *Kevin Black, Noah Brown, James Darpinian, Karan Dhabalia, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Manuel Y. Galliker, Dibya Ghosh, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Devin LeBlanc, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Allen Z. Ren, Lucy Xiaoyang Shi, Laura Smith, Jost Tobias Springenberg, Kyle Stachowicz, James Tanner, Quan Vuong, Homer Walke, Anna Walling, Haohuan Wang, Lili Yu, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2504.16054)] [[project](https://pi.website/blog/pi05)] [[code](https://github.com/Physical-Intelligence/openpi)], CoRL 2025
 
-14. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
+16. **π0: A Vision-Language-Action Flow Model for General Robot Control.**  
    *Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky.* [[abs](https://arxiv.org/abs/2410.24164)] [[project](https://physicalintelligence.company/blog/pi0)] [[code](https://github.com/Physical-Intelligence/openpi)], Arxiv 2024.10
 
-15. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
+17. **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models.**  
    *Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, Byung-Cheol Min.* [[abs](https://arxiv.org/abs/2309.10062)] [[code](https://github.com/SMARTlab-Purdue/SMART-LLM)], IROS 2024
 
 
@@ -218,6 +225,11 @@ Whether you're a researcher, developer, or enthusiast, this is your go-to hub fo
 
 8. **VGGT: Visual Geometry Grounded Transformer.**  
    *Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny.* [[abs](https://arxiv.org/abs/2503.11651)] [[project](https://huggingface.co/spaces/facebook/vggt)] [[code](https://github.com/facebookresearch/vggt)], CVPR 2025 (Best Paper Award)
+
+
+### 🧠 LLM & Transformer Architecture
+1. **WhiteMatter: All-to-All Cross-Layer Connections via KV Mixing.**  
+   *Wenbo Zhang, Xiang Ren.* [[abs](https://arxiv.org/abs/2608.18486)], Arxiv 2026.08
 
     
 ---
